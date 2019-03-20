@@ -84,8 +84,8 @@ Let's just take a look at an example:
 # How to Practice
 1. Recreate the example yourself
 2. Ask a friend to review the code
-  * [People centric guide to code review](https://phauer.com/2018/code-review-guidelines/)
-  * [Code centric guide to code review](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/)
+    * [People centric guide to code review](https://phauer.com/2018/code-review-guidelines/)
+    * [Code centric guide to code review](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/)
   
 * Refactor example 1
 * Refactor example 2 and add evaluation section
