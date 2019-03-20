@@ -87,9 +87,7 @@ Let's just take a look at an example:
     * [People centric guide to code review](https://phauer.com/2018/code-review-guidelines/)
     * [Code centric guide to code review](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/)
   
-* Refactor example 1
-* Refactor example 2 and add evaluation section
-* Check out this page from the scikit-learn mothership.
-  * https://scikit-learn.org/stable/auto_examples/index.html
-
+* Beginner: Refactor example 1
+* Intermediate: Refactor example 2 and add evaluation section
+* Advanced: Use your own data and pandas
 
