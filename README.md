@@ -44,7 +44,7 @@ Today our focus  is on implementing machine learning in python using scikit-lear
     
 
 # Linear Regression
-The first example we will look at is from the scikit-learn webpage. The focus is pedagogical and on the main components of the machine learning workflow. Because this is a fundamental example. We are not teaching the best practices. To  understand the  best practices you  first need some undertanding of the building blocks.
+The first example we will look at is from the scikit-learn webpage. The focus is pedagogical and on the main components of the machine learning workflow. Because this is a fundamental example. We are not teaching the best practices. To  understand the  best practices you  first need undertanding of the building blocks.
 
 * [Linear Regression Example](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py) 
     1. Import packages
