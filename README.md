@@ -89,5 +89,7 @@ Let's just take a look at an example:
   
 * Beginner: Refactor example 1
 * Intermediate: Refactor example 2 and add evaluation section
+* Intermediate: Dig into some examples: https://scikit-learn.org/stable/auto_examples/index.html
 * Advanced: Use your own data and pandas
+
 
