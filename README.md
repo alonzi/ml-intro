@@ -20,7 +20,7 @@ This repo contains materials for a introductory workshop to machine learning in 
   * <pre>conda install scikit-learn</pre>
 
 ## Test system
-The <code>$</code> means bash prompt. The <code>>>></code> means python prompt.
+The <code>$</code> means bash prompt. The <code>>>></code> means python prompt. The indented bullets represent output.
 * <code> $ python --version </code>
   * <code> Python 3.7.1 </code>
 * <code> $ python </code>
