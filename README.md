@@ -21,7 +21,7 @@ This repo contains materials for a introductory workshop to machine learning in 
 
 ## Test system
 * <pre> $ python --version </pre>
-  * Python 3.7.1
+  * <pre> Python 3.7.1 </pre>
 * <pre> $ python </pre>
 * <pre> >>> import sklearn </pre>
   *  <pre> >>> </pre>
