@@ -29,11 +29,13 @@ The <code>$</code> means bash prompt. The <code>>>></code> means python prompt. 
 
 
 # Goals for Today
+Today our focus  is on implementing machine learning in python using scikit-learn. We will focus on the package specific implementation but we will also spend time introducing machine learning concepts. Please ask any question that pops up. Don't worry about how much time we have, I'll take care of that.
+
 1. Get scikit-learn running
 2. Get comfortable with scikit-learn and machine learning workflows with  it
 3. Learn how to look up help
 
-## Outline (3 examples)
+## Outline
 1. [Linear Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py)
 2. help resources
     1. scikit-learn documentation
@@ -63,6 +65,10 @@ The best way to navigate the scikit-learn documentation is with google. It is cr
 * <code>documentation sklearn logisticregression</code>
 
 ![](https://github.com/alonzi/ml-intro/blob/master/logistic-search-result.png)
+
+# Logistic Regression
+3. [Logistic Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html#sphx-glr-auto-examples-linear-model-plot-iris-logistic-py)
+
 
 ### stack overflow
 Let's just take a look at an example:
