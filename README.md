@@ -38,6 +38,8 @@ The <code>$</code> means bash prompt. The <code>>>></code> means python prompt. 
 2. help resources
     1. scikit-learn documentation
     2. stack overflow
+3. [Logistic Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html#sphx-glr-auto-examples-linear-model-plot-iris-logistic-py)
+    
 
 # Linear Regression
 The first example we will look at is from the scikit-learn webpage. The focus is pedagogical and on the main components of the machine learning workflow. Because this is a fundamental example. We are not teaching the best practices. To  understand the  best practices you  first need some undertanding of the building blocks.
@@ -52,6 +54,14 @@ The first example we will look at is from the scikit-learn webpage. The focus is
     7. Make predictions
     8. Evaluate
     9. Visualize
+    
+# Getting Help
+It is essential to learn how to get help without the delay of waiting for another person to respond.  To suceed in this endeavor you must be able to solve your own problems with the help of reference materials. You will encounter a combination of components that is unique and requires a hand tailored solution. However each individual component is  likely already  solved and understood through use of tools readily available online. The key is to know how to use those tools and how to discern high quality information from low quality information.
+
+### scikit-learn documentation
+The best way to navigate the scikit-learn documentation is with google. It is critical to know how to compose a google search. For example if you are going to use the function "sklearn.linear_model.LogisticRegression" the proper way to search is:
+* <code>documentation sklearn logisticregression</code>
+* ![]()
 
 
 # How to Practice
