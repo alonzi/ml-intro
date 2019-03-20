@@ -57,6 +57,8 @@ The first example we will look at is from the scikit-learn webpage. The focus is
     8. Evaluate
     9. Visualize
     
+* [code](https://github.com/alonzi/ml-intro/blob/master/linear-example.py)
+    
 # Getting Help
 It is essential to learn how to get help without the delay of waiting for another person to respond.  To suceed in this endeavor you must be able to solve your own problems with the help of reference materials. You will encounter a combination of components that is unique and requires a hand tailored solution. However each individual component is  likely already  solved and understood through use of tools readily available online. The key is to know how to use those tools and how to discern high quality information from low quality information.
 
@@ -79,6 +81,7 @@ Let's just take a look at an example:
   5. plot model
   6. plot training set
 
+* [code](https://github.com/alonzi/ml-intro/blob/master/logistic-example.py)
 
 
 # How to Practice
