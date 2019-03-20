@@ -35,15 +35,15 @@ The <code>$</code> means bash prompt. The <code>>>></code> means python prompt. 
 
 ## Outline (3 examples)
 1. [Linear Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-examples-linear-model-plot-ols-py)
-  1. Import packages
-  2. Load the data
-  3. Split the data into training/testing
-  4. Split the targets into training/testing
-  5. Create linear regression object
-  6. Train the model
-  7. Make predictions
-  8. Evaluate
-  9. Visualize
+    1. Import packages
+    2. Load the data
+    3. Split the data into training/testing
+    4. Split the targets into training/testing
+    5. Create linear regression object
+    6. Train the model
+    7. Make predictions
+    8. Evaluate
+    9. Visualize
 2. help resources
   * scikit-learn documentation
   * stack overflow
