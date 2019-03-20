@@ -73,51 +73,23 @@ Let's just take a look at an example:
 # Logistic Regression
 * [Logistic Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html#sphx-glr-auto-examples-linear-model-plot-iris-logistic-py)
   1. imports
-  2. 
-# import some data to play with
-iris = datasets.load_iris()
-X = iris.data[:, :2]  # we only take the first two features.
-Y = iris.target
-
-logreg = LogisticRegression(C=1e5, solver='lbfgs', multi_class='multinomial')
-
-# Create an instance of Logistic Regression Classifier and fit the data.
-logreg.fit(X, Y)
-
-# Plot the decision boundary. For that, we will assign a color to each
-# point in the mesh [x_min, x_max]x[y_min, y_max].
-x_min, x_max = X[:, 0].min() - .5, X[:, 0].max() + .5
-y_min, y_max = X[:, 1].min() - .5, X[:, 1].max() + .5
-h = .02  # step size in the mesh
-xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
-Z = logreg.predict(np.c_[xx.ravel(), yy.ravel()])
-
-# Put the result into a color plot
-Z = Z.reshape(xx.shape)
-plt.figure(1, figsize=(4, 3))
-plt.pcolormesh(xx, yy, Z, cmap=plt.cm.Paired)
-
-# Plot also the training points
-plt.scatter(X[:, 0], X[:, 1], c=Y, edgecolors='k', cmap=plt.cm.Paired)
-plt.xlabel('Sepal length')
-plt.ylabel('Sepal width')
-
-plt.xlim(xx.min(), xx.max())
-plt.ylim(yy.min(), yy.max())
-plt.xticks(())
-plt.yticks(())
-
-plt.show()
-
-
+  2. load data
+  3. create model
+  4. train model
+  5. plot model
+  6. plot training set
 
 
 
 # How to Practice
-Check out this page from the scikit-learn mothership.
-* https://scikit-learn.org/stable/auto_examples/index.html
-
 1. Recreate the example yourself
 2. Ask a friend to review the code
   * [People centric guide to code review](https://phauer.com/2018/code-review-guidelines/)
   * [Code centric guide to code review](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/)
+  
+* Refactor example 1
+* Refactor example 2 and add evaluation section
+* Check out this page from the scikit-learn mothership.
+  * https://scikit-learn.org/stable/auto_examples/index.html
+
+
