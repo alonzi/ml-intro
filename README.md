@@ -20,12 +20,12 @@ This repo contains materials for a introductory workshop to machine learning in 
   * <pre>conda install scikit-learn</pre>
 
 ## Test system
-The <pre>$</pre> means bash prompt. The <pre>>>></pre> means python prompt.
-* <pre> $ python --version </pre>
-  * <pre> Python 3.7.1 </pre>
-* <pre> $ python </pre>
-* <pre> >>> import sklearn </pre>
-  *  <pre> >>> </pre>
+The <code>$</code> means bash prompt. The <code>>>></code> means python prompt.
+* <code> $ python --version </code>
+  * <code> Python 3.7.1 </code>
+* <code> $ python </code>
+* <code> >>> import sklearn </code>
+  *  <code> >>> </code>
 
 
 # Goals for Today
