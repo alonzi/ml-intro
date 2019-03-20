@@ -66,13 +66,13 @@ The best way to navigate the scikit-learn documentation is with google. It is cr
 
 ![](https://github.com/alonzi/ml-intro/blob/master/logistic-search-result.png)
 
-# Logistic Regression
-3. [Logistic Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html#sphx-glr-auto-examples-linear-model-plot-iris-logistic-py)
-
-
 ### stack overflow
 Let's just take a look at an example:
 * https://stackoverflow.com/questions/6167731/printing-list-elements-on-separated-lines-in-python
+
+# Logistic Regression
+3. [Logistic Regression](https://scikit-learn.org/stable/auto_examples/linear_model/plot_iris_logistic.html#sphx-glr-auto-examples-linear-model-plot-iris-logistic-py)
+
 
 # How to Practice
 Check out this page from the scikit-learn mothership.
