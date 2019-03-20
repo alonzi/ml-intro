@@ -32,7 +32,7 @@ The <code>$</code> means bash prompt. The <code>>>></code> means python prompt. 
 Today our focus  is on implementing machine learning in python using scikit-learn. We will focus on the package specific implementation but we will also spend time introducing machine learning concepts. Please ask any question that pops up. Don't worry about how much time we have, I'll take care of that.
 
 1. Get scikit-learn running
-2. Get comfortable with scikit-learn and machine learning workflows with  it
+2. Get comfortable with scikit-learn and machine learning workflows
 3. Learn how to look up help
 
 ## Outline
