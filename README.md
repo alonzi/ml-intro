@@ -61,8 +61,12 @@ It is essential to learn how to get help without the delay of waiting for anothe
 ### scikit-learn documentation
 The best way to navigate the scikit-learn documentation is with google. It is critical to know how to compose a google search. For example if you are going to use the function "sklearn.linear_model.LogisticRegression" the proper way to search is:
 * <code>documentation sklearn logisticregression</code>
-* ![](https://github.com/alonzi/ml-intro/blob/master/logistic-search-result.png)
 
+![](https://github.com/alonzi/ml-intro/blob/master/logistic-search-result.png)
+
+### stack overflow
+Let's just take a look at an example:
+* https://stackoverflow.com/questions/6167731/printing-list-elements-on-separated-lines-in-python
 
 # How to Practice
 Check out this page from the scikit-learn mothership.
